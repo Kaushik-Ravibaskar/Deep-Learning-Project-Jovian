@@ -24,7 +24,8 @@ Here's a summary of the different techniques which I used in this model to impro
 
 **Adam optimizer**: Instead of SGD (stochastic gradient descent), I used the Adam optimizer which uses techniques like momentum and adaptive learning rates for faster training.
 
-**Records**: https://jovian.ai/kaushikravibaskar/birds-species-classifier/v/18/records 
+:speaker: **Records**: https://jovian.ai/kaushikravibaskar/birds-species-classifier/v/18/records 
 
-*Notebook used for reference: https://jovian.ai/aakashns/05b-cifar10-resnet* \
-*A special thanks to Jovian for the wonderful course!*
+:star: *The actual course-project page: https://jovian.ai/learn/deep-learning-with-pytorch-zero-to-gans/assignment/course-project* \
+:star: *Notebook used for reference: https://jovian.ai/aakashns/05b-cifar10-resnet* \
+:star: *A special thanks to Jovian for the wonderful course :heart:!*
